@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Quốc Trung
-- 👀 I’m interested in font end and back end . My dream is FullStack
+- 👀 I’m interested in Fontend and Backend . My dream is FullStack
 - 🌱 I’m currently learning ReactJS and JavaSpring Boot
 - 💞️ I’m looking to collaborate on Github and another social
 - 📫 How to reach me : my link facebook in my profile
